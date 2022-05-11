@@ -1,0 +1,8 @@
+.element {
+  backdrop-filter: grayscale(0%);
+  -webkit-backdrop-filter: grayscale(0%);
+}
+
+.text {
+  transform: rotate(41deg);
+}
